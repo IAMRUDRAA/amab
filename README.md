@@ -11,7 +11,7 @@
 
 ### Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/rockey170/ProSpammer&template=https://github.com/rockey170/ProSpammer)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/IAMRUDRAA/amab&template=https://github.com/IAMRUDRAA/amab)
 
 
 Adding soon👀
